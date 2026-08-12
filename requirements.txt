@@ -1,0 +1,14 @@
+# Checklist Reminder - Windows Desktop App
+# Python 3.10+
+
+# System tray functionality
+pystray>=0.19.5
+
+# Image handling for tray icon
+Pillow>=10.0.0
+
+# Windows toast notifications with action buttons
+windows-toasts>=1.1.0
+
+# Date/time handling
+python-dateutil>=2.8.2
